@@ -1,4 +1,4 @@
-#POWER BI 🎲🗃️👨🏼‍💻
+                                                          POWER BI 🎲🗃️👨🏼‍💻
 
 - Sistema Power BI em que foi preciso utilizar: 
 - Importar em pasta;Importar em csv;Importar pelo google sheets (planilha, link);
