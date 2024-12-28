@@ -1,4 +1,5 @@
-                                                          POWER BI 🎲🗃️👨🏼‍💻
+                                                            POWER BI 🎲🗃️👨🏼‍💻
+
 
 - Sistema Power BI em que foi preciso utilizar: 
 - Importar em pasta;Importar em csv;Importar pelo google sheets (planilha, link);
@@ -13,7 +14,7 @@
 - Acessar o Power BI Service;Publicar na web;
 - Métodos seguros de compartilhamento de relatórios no Power BI, considerando a sensibilidade dos dados.
   
-
+<br>
 
 ![Captura de tela 2024-12-28 134907](https://github.com/user-attachments/assets/f34389ac-a712-4ef6-86d2-c8a7c450fcb0)
 
